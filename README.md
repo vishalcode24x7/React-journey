@@ -1,2 +1,2 @@
 # React-journey
-Today i start my react journy 🚀
+Today i start my react journey 🚀
